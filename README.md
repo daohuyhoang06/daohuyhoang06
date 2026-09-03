@@ -43,7 +43,6 @@ I'm **Dao Huy Hoang**, a software developer from Vietnam 🇻🇳.
 
 <p>
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="28"/>
-  <img src="https://img.shields.io/badge/Maven-282C34?logo=apachemaven&logoColor=C71A36" alt="Maven" height="28"/>
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="28"/>
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub" height="28"/>
   <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman" height="28"/>
