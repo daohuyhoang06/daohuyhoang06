@@ -1,8 +1,6 @@
 # Hi there, I'm Huy Hoang! 👋
 
 
----
-
 ## 🛠️ Technologies & Tools
 
 ### ☕ Backend Development
