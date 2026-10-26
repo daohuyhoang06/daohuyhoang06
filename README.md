@@ -1,6 +1,5 @@
 # Hi there, I'm Huy Hoang! 👋
 
-I'm **Dao Huy Hoang**, a software developer from Vietnam 🇻🇳.
 
 ---
 
